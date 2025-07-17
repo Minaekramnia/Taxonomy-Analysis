@@ -1,2 +1,2 @@
 # Taxonomy-Analysis
-Taxoomy comparisons for different countries, and recommendations to get better matches.
+An AI-powered application for analyzing, extracting insights, and interacting with World Bank documents.
